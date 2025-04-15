@@ -74,28 +74,28 @@ A comprehensive women's safety application that combines community support with 
 
 ## Development Workflow
 
-### Phase 1: Core Setup & Basic Features (Weeks 1-2)
+### Phase 1: Core Setup & Basic Features 
 1. Project initialization & environment setup
 2. User authentication system development
 3. Basic community platform functionality
 4. Simple map integration with mock safety data
 5. Basic UI/UX implementation
 
-### Phase 2: Advanced Features (Weeks 3-4)
+### Phase 2: Advanced Features
 1. Safety routing algorithm development
 2. SOS trigger mechanisms implementation
 3. Real-time location sharing system
 4. Admin dashboard for content moderation
 5. Integration of crime databases
 
-### Phase 3: AI/ML Integration (Weeks 5-6)
+### Phase 3: AI/ML Integration
 1. Voice detection model training & integration
 2. Gesture recognition system implementation
 3. Predictive safety advisory algorithm development
 4. Machine learning pipeline establishment
 5. Performance optimization
 
-### Phase 4: Polish & Testing (Weeks 7-8)
+### Phase 4: Polish & Testing 
 1. UI/UX refinement & accessibility improvements
 2. Comprehensive security testing
 3. Performance optimization
