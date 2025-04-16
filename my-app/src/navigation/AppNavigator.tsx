@@ -1,26 +1,26 @@
-// import React, { useContext } from 'react';
-// import { NavigationContainer } from '@react-navigation/native';
-// import { ActivityIndicator, View } from 'react-native';
-// import { AuthContext } from '../context/AuthContext';
-// import AuthNavigator from './AuthNavigator';
-// import MainNavigator from './MainNavigator';
+import React from 'react';
+import { createStackNavigator } from '@react-navigation/stack';
+import AuthNavigator from './AuthNavigator';
+import MainNavigator from './MainNavigator';
+import DecoyNavigator from './DecoyNavigator';
+import { useAuth } from '../hooks/useAuth';
+import { useDecoyMode } from '../hooks/useDecoyMode';
 
-// const AppNavigator = () => {
-//   const { isAuthenticated, isLoading } = useContext(AuthContext);
+const Stack = createStackNavigator();
 
-//   if (isLoading) {
-//     return (
-//       <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
-//         <ActivityIndicator size="large" color="#0000ff" />
-//       </View>
-//     );
-//   }
-
-//   return (
-//     <NavigationContainer>
-//       {isAuthenticated ? <MainNavigator /> : <AuthNavigator />}
-//     </NavigationContainer>
-//   );
-// };
-
-// export default AppNavigator;
+export default function AppNavigator() {
+  const { isAuthenticated } = useAuth();
+  const { decoyModeActive } = useDecoyMode();
+  
+  return (
+    <Stack.Navigator headerMode="none">
+      {!isAuthenticated ? (
+        <Stack.Screen name="Auth" component={AuthNavigator} />
+      ) : decoyModeActive ? (
+        <Stack.Screen name="Decoy" component={DecoyNavigator} />
+      ) : (
+        <Stack.Screen name="Main" component={MainNavigator} />
+      )}
+    </Stack.Navigator>
+  );
+}
