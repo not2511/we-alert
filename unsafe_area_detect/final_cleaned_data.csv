@@ -1,0 +1,585 @@
+location,offense_type,crime_type,crime
+Connaught Place,rape,,verbal abuse
+Connaught Place,rape,,assault
+Connaught Place,rape,,verbal abuse
+Connaught Place,rape,,verbal abuse
+Connaught Place,rape,,assault
+Connaught Place,rape,,verbal abuse
+Connaught Place,rape,,verbal abuse
+Connaught Place,rape,,assault
+Connaught Place,rape,,verbal abuse
+Connaught Place,"rape, gang rape",,verbal abuse
+Connaught Place,"rape, gang rape",,assault
+Connaught Place,"rape, gang rape",,verbal abuse
+Connaught Place,"rape, domestic violence",,verbal abuse
+Connaught Place,"rape, domestic violence",,assault
+Connaught Place,"rape, domestic violence",,verbal abuse
+West Delhi,rape,,
+West Delhi,rape,,
+West Delhi,rape,,
+West Delhi,rape,,
+West Delhi,rape,,
+West Delhi,Unknown,,
+North West,rape,,
+North West,"rape, sexual assault",,
+Rohini,"rape, kidnapping",Rape,
+Prashant Vihar,rape,,
+Saket,rape,,verbal abuse
+Saket,rape,,dowry
+Saket,rape,,dowry
+Saket,rape,,murder
+Saket,"rape, sexual assault, gang rape",,verbal abuse
+Saket,"rape, sexual assault, gang rape",,dowry
+Saket,"rape, sexual assault, gang rape",,dowry
+Saket,"rape, sexual assault, gang rape",,murder
+Saket,"rape, sexual assault, gang rape",,verbal abuse
+Saket,"rape, sexual assault, gang rape",,dowry
+Saket,"rape, sexual assault, gang rape",,dowry
+Saket,"rape, sexual assault, gang rape",,murder
+Saket,"rape, sexual assault, sexual harassment",,verbal abuse
+Saket,"rape, sexual assault, sexual harassment",,dowry
+Saket,"rape, sexual assault, sexual harassment",,dowry
+Saket,"rape, sexual assault, sexual harassment",,murder
+Saket,"rape, sexual assault, kidnapping",,verbal abuse
+Saket,"rape, sexual assault, kidnapping",,dowry
+Saket,"rape, sexual assault, kidnapping",,dowry
+Saket,"rape, sexual assault, kidnapping",,murder
+Saket,"rape, gang rape",,verbal abuse
+Saket,"rape, gang rape",,dowry
+Saket,"rape, gang rape",,dowry
+Saket,"rape, gang rape",,murder
+Saket,"rape, gang rape",,verbal abuse
+Saket,"rape, gang rape",,dowry
+Saket,"rape, gang rape",,dowry
+Saket,"rape, gang rape",,murder
+Saket,"rape, gang rape",,verbal abuse
+Saket,"rape, gang rape",,dowry
+Saket,"rape, gang rape",,dowry
+Saket,"rape, gang rape",,murder
+Saket,rape,,verbal abuse
+Saket,rape,,dowry
+Saket,rape,,dowry
+Saket,rape,,murder
+Saket,rape,,verbal abuse
+Saket,rape,,dowry
+Saket,rape,,dowry
+Saket,rape,,murder
+Saket,rape,,verbal abuse
+Saket,rape,,dowry
+Saket,rape,,dowry
+Saket,rape,,murder
+Saket,Unknown,,verbal abuse
+Saket,Unknown,,dowry
+Saket,Unknown,,dowry
+Saket,Unknown,,murder
+Saket,rape,,verbal abuse
+Saket,rape,,dowry
+Saket,rape,,dowry
+Saket,rape,,murder
+Saket,rape,,verbal abuse
+Saket,rape,,dowry
+Saket,rape,,dowry
+Saket,rape,,murder
+Saket,"rape, sexual assault",,verbal abuse
+Saket,"rape, sexual assault",,dowry
+Saket,"rape, sexual assault",,dowry
+Saket,"rape, sexual assault",,murder
+Saket,"rape, sexual assault",,verbal abuse
+Saket,"rape, sexual assault",,dowry
+Saket,"rape, sexual assault",,dowry
+Saket,"rape, sexual assault",,murder
+Saket,"rape, sexual assault, kidnapping",,verbal abuse
+Saket,"rape, sexual assault, kidnapping",,dowry
+Saket,"rape, sexual assault, kidnapping",,dowry
+Saket,"rape, sexual assault, kidnapping",,murder
+Saket,rape,,verbal abuse
+Saket,rape,,dowry
+Saket,rape,,dowry
+Saket,rape,,murder
+Saket,Unknown,,verbal abuse
+Saket,Unknown,,dowry
+Saket,Unknown,,dowry
+Saket,Unknown,,murder
+Chhawla,rape,,
+Chhawla,"rape, gang rape",,
+Shalimar Bagh,rape,,
+Shalimar Bagh,rape,,
+Najafgarh,"rape, kidnapping",,
+East,"rape, sexual assault, gang rape, kidnapping",,
+East,"rape, gang rape, kidnapping",,
+East,rape,,
+East,rape,,
+East,rape,,
+West,rape,,
+Tilak Nagar,rape,,kidnapping
+Tilak Nagar,rape,,kidnapping
+Tilak Nagar,rape,,verbal abuse
+Tilak Nagar,rape,,murder
+Tilak Nagar,rape,,kidnapping
+Tilak Nagar,rape,,kidnapping
+Tilak Nagar,rape,,verbal abuse
+Tilak Nagar,rape,,murder
+Shahdara,rape,,murder
+Shahdara,rape,,verbal abuse
+Shahdara,rape,,dowry
+Shahdara,rape,,rape
+Shahdara,"rape, sexual assault",,murder
+Shahdara,"rape, sexual assault",,verbal abuse
+Shahdara,"rape, sexual assault",,dowry
+Shahdara,"rape, sexual assault",,rape
+Shahdara,"rape, sexual assault",,murder
+Shahdara,"rape, sexual assault",,verbal abuse
+Shahdara,"rape, sexual assault",,dowry
+Shahdara,"rape, sexual assault",,rape
+Delhi Cantonment,rape,Rape,
+Delhi Cantonment,rape,Rape,
+Chanakyapuri,rape,Rape,verbal abuse
+Chanakyapuri,rape,Rape,dowry
+Chanakyapuri,rape,Rape,kidnapping
+Chanakyapuri,rape,Rape,verbal abuse
+Chanakyapuri,rape,Rape,dowry
+Chanakyapuri,rape,Rape,kidnapping
+Chanakyapuri,rape,Rape,verbal abuse
+Chanakyapuri,rape,Rape,dowry
+Chanakyapuri,rape,Rape,kidnapping
+Chanakyapuri,rape,Rape,verbal abuse
+Chanakyapuri,rape,Rape,dowry
+Chanakyapuri,rape,Rape,kidnapping
+Chanakyapuri,rape,Rape,verbal abuse
+Chanakyapuri,rape,Rape,dowry
+Chanakyapuri,rape,Rape,kidnapping
+Chanakyapuri,rape,Rape,verbal abuse
+Chanakyapuri,rape,Rape,dowry
+Chanakyapuri,rape,Rape,kidnapping
+East Delhi,"rape, molestation, kidnapping",,
+East Delhi,rape,,
+East Delhi,rape,,
+Anand Vihar,"rape, kidnapping",,murder
+Anand Vihar,"rape, kidnapping",,rape
+Anand Vihar,"rape, kidnapping",,kidnapping
+Anand Vihar,"rape, kidnapping",,assault
+Anand Vihar,"rape, kidnapping",,murder
+Anand Vihar,"rape, kidnapping",,assault
+Anand Vihar,"rape, kidnapping",,verbal abuse
+Anand Vihar,"rape, kidnapping",,murder
+Anand Vihar,"rape, kidnapping",,rape
+Anand Vihar,"rape, kidnapping",,kidnapping
+Anand Vihar,"rape, kidnapping",,assault
+Anand Vihar,"rape, kidnapping",,murder
+Anand Vihar,"rape, kidnapping",,assault
+Anand Vihar,"rape, kidnapping",,verbal abuse
+Anand Vihar,rape,,murder
+Anand Vihar,rape,,rape
+Anand Vihar,rape,,kidnapping
+Anand Vihar,rape,,assault
+Anand Vihar,rape,,murder
+Anand Vihar,rape,,assault
+Anand Vihar,rape,,verbal abuse
+Anand Vihar,Unknown,,murder
+Anand Vihar,Unknown,,rape
+Anand Vihar,Unknown,,kidnapping
+Anand Vihar,Unknown,,assault
+Anand Vihar,Unknown,,murder
+Anand Vihar,Unknown,,assault
+Anand Vihar,Unknown,,verbal abuse
+Anand Vihar,"rape, gang rape, sexual harassment, kidnapping",,murder
+Anand Vihar,"rape, gang rape, sexual harassment, kidnapping",,rape
+Anand Vihar,"rape, gang rape, sexual harassment, kidnapping",,kidnapping
+Anand Vihar,"rape, gang rape, sexual harassment, kidnapping",,assault
+Anand Vihar,"rape, gang rape, sexual harassment, kidnapping",,murder
+Anand Vihar,"rape, gang rape, sexual harassment, kidnapping",,assault
+Anand Vihar,"rape, gang rape, sexual harassment, kidnapping",,verbal abuse
+Anand Vihar,rape,,murder
+Anand Vihar,rape,,rape
+Anand Vihar,rape,,kidnapping
+Anand Vihar,rape,,assault
+Anand Vihar,rape,,murder
+Anand Vihar,rape,,assault
+Anand Vihar,rape,,verbal abuse
+Civil Lines,"rape, gang rape",,
+Jantar Mantar,"rape, gang rape",,
+Jantar Mantar,rape,,
+South,"rape, gang rape",,
+South,"rape, gang rape",,
+South,"rape, gang rape",,
+South,"rape, gang rape",,
+South,"rape, gang rape",,
+South,"rape, gang rape",,
+South,"rape, gang rape",,
+South,"rape, gang rape",,
+South,"rape, gang rape",,
+South,rape,,
+South,"rape, molestation",,
+South,rape,,
+South,rape,,
+South,rape,,
+South,rape,,
+South,rape,,
+South,"rape, gang rape",,
+South,rape,,
+South,rape,,
+South,rape,,
+South,rape,,
+South,rape,,
+Share,"rape, gang rape",,
+Mukherjee Nagar,rape,,dowry
+Mukherjee Nagar,rape,,rape
+Safdarjung Hospital,rape,,
+Outer,rape,,
+Outer,rape,,
+South Delhi,rape,,
+South Delhi,"rape, gang rape",,
+South Delhi,rape,,
+South Delhi,"rape, gang rape, sexual harassment, stalking, voyeurism",,
+South Delhi,"rape, gang rape, sexual harassment, stalking, voyeurism",,
+South Delhi,"rape, sexual harassment, stalking, voyeurism",,
+South Delhi,rape,,
+South Delhi,rape,,
+South Delhi,rape,,
+South Delhi,rape,,
+South Delhi,rape,,
+South Delhi,"rape, sexual assault",,
+South Delhi,rape,,
+South Delhi,rape,,
+Dhaula Kuan,rape,,
+Niranjan Pat,"rape, sexual assault",,
+Rajasthan,"rape, trafficking",,
+Karol Bagh,rape,,verbal abuse
+Karol Bagh,rape,,assault
+Central,"rape, gang rape",,
+Begumpur,rape,,
+Gokulpur,rape,,
+Geeta Colony,rape,,
+Anand Parbat,rape,Rape,
+Nand Nagri,rape,,
+Mandavali,"rape, gang rape",,
+Green Park,"rape, molestation",,verbal abuse
+Green Park,"rape, molestation",,rape
+Green Park,"rape, molestation",,kidnapping
+Green Park,"rape, molestation",,verbal abuse
+Paharganj,"rape, gang rape",,murder
+Paharganj,"rape, gang rape",,verbal abuse
+Paharganj,"rape, gang rape",,verbal abuse
+Paharganj,"rape, gang rape",,murder
+Paharganj,sexual assault,,murder
+Paharganj,sexual assault,,verbal abuse
+Paharganj,sexual assault,,verbal abuse
+Paharganj,sexual assault,,murder
+Paharganj,"rape, sexual assault",,murder
+Paharganj,"rape, sexual assault",,verbal abuse
+Paharganj,"rape, sexual assault",,verbal abuse
+Paharganj,"rape, sexual assault",,murder
+Next For The Youngest Convict,rape,,
+Bindapur,rape,,
+Inderlok,rape,,
+Inderlok,"rape, kidnapping",,
+Inderlok,rape,,
+Inderlok,"rape, sexual assault",,
+Inderlok,rape,,
+Inderlok,rape,,
+Inderlok,rape,,
+Inderlok,rape,,
+Inderlok,"rape, kidnapping",,
+Inderlok,"rape, kidnapping",,
+Inderlok,rape,,
+Inderlok,rape,,
+North Delhi,rape,,
+North Delhi,"rape, sexual assault",,
+North Delhi,"rape, gang rape",,
+Hyderabad After,rape,,
+Hyderabad After,rape,,
+North,"rape, sexual assault",,
+North,"rape, sexual assault",,
+Most,rape,,
+Uttam Nagar,rape,,kidnapping
+Uttam Nagar,rape,,verbal abuse
+Uttam Nagar,rape,,kidnapping
+Uttam Nagar,rape,,rape
+Uttam Nagar,rape,,assault
+Lajpat Nagar,rape,,
+Gandhi Nagar,rape,,
+Govindpuri,rape,,
+Seelampur,rape,,
+Race Course Road,"rape, sexual assault",,
+Race Course Road,"rape, sexual assault",,
+Munirka,rape,,assault
+Munirka,rape,,assault
+Munirka,rape,,dowry
+Munirka,rape,,dowry
+Munirka,rape,,dowry
+Munirka,rape,,rape
+Munirka,rape,,murder
+Munirka,"rape, kidnapping",,assault
+Munirka,"rape, kidnapping",,assault
+Munirka,"rape, kidnapping",,dowry
+Munirka,"rape, kidnapping",,dowry
+Munirka,"rape, kidnapping",,dowry
+Munirka,"rape, kidnapping",,rape
+Munirka,"rape, kidnapping",,murder
+Munirka,"rape, gang rape, kidnapping",,assault
+Munirka,"rape, gang rape, kidnapping",,assault
+Munirka,"rape, gang rape, kidnapping",,dowry
+Munirka,"rape, gang rape, kidnapping",,dowry
+Munirka,"rape, gang rape, kidnapping",,dowry
+Munirka,"rape, gang rape, kidnapping",,rape
+Munirka,"rape, gang rape, kidnapping",,murder
+Munirka,rape,,assault
+Munirka,rape,,assault
+Munirka,rape,,dowry
+Munirka,rape,,dowry
+Munirka,rape,,dowry
+Munirka,rape,,rape
+Munirka,rape,,murder
+Patel Nagar,"rape, molestation, stalking",,dowry
+Patel Nagar,"rape, molestation, stalking",,assault
+Patel Nagar,"rape, molestation, stalking",,rape
+Patel Nagar,"rape, molestation, stalking",,dowry
+Patel Nagar,"rape, molestation, stalking",,dowry
+Sarojini Nagar,rape,,assault
+Sarojini Nagar,rape,,kidnapping
+Sarojini Nagar,rape,,verbal abuse
+Sarojini Nagar,rape,,verbal abuse
+Sarojini Nagar,rape,,murder
+Rajpath,rape,,
+Bihar,"rape, sexual assault",,
+Nehru Place,rape,,
+Kirti Nagar,rape,,murder
+Kirti Nagar,rape,,dowry
+Kirti Nagar,rape,,assault
+Kirti Nagar,rape,,murder
+Kirti Nagar,rape,,dowry
+Kirti Nagar,rape,,verbal abuse
+Chandni Chowk,,Rape,kidnapping
+Chandni Chowk,,Rape,kidnapping
+Chandni Chowk,,Rape,kidnapping
+Chandni Chowk,,Rape,dowry
+Chandni Chowk,,Rape,rape
+Chandni Chowk,,Rape,assault
+Chandni Chowk,,Rape,kidnapping
+Chandni Chowk,,Rape,kidnapping
+Chandni Chowk,,Rape,kidnapping
+Chandni Chowk,,Rape,dowry
+Chandni Chowk,,Rape,rape
+Chandni Chowk,,Rape,assault
+Chandni Chowk,,Rape,kidnapping
+Chandni Chowk,,Rape,kidnapping
+Chandni Chowk,,Rape,dowry
+Chandni Chowk,,Rape,rape
+Chandni Chowk,,Rape,assault
+,,Rape,kidnapping
+Ito,,Rape,
+Ito,,Rape,
+Ito,,Rape,
+Ito,,Rape,
+Ito,,Rape,
+Ito,,Rape,
+Ito,,Rape,
+Bawana,,Molestation,
+Bawana,,Sexual,
+Unknown,,Rape,
+Unknown,,Rape,
+Unknown,,Rape,
+Unknown,,Unknown,
+Unknown,,Unknown,
+Unknown,,Rape,
+Unknown,,Rape,
+Unknown,,Unknown,
+Aiims,,Rape,
+Aiims,,Rape,
+Aiims,,Rape,
+Aiims,,Rape,
+Aiims,,Rape,
+Aiims,,Rape,
+Aiims,,Rape,
+Aiims,,Rape,
+Aiims,,Rape,
+Aiims,,Rape,
+Ashok Vihar,,Assault,
+Dilshad Garden,,Rape,
+Aerocity,,Rape,
+Delhi Cantt,,Assault,
+Badli,,Murder,
+Badli,,Rape,
+Dwarka,,Rape,
+Dwarka,,Rape,
+Dwarka,,Rape,
+Ashram,,Rape,
+Defence Colony,,Rape,
+Narela,,Rape,
+Vasant Kunj,,Rape,
+Vasant Kunj,,Rape,
+Palam,,Rape,
+Gole Market,,,verbal abuse
+Gole Market,,,verbal abuse
+Bhikaji Cama Place,,,rape
+Bhikaji Cama Place,,,kidnapping
+Bhikaji Cama Place,,,dowry
+Rajender Nagar,,,murder
+Mayur Vihar Phase I,,,murder
+Mayur Vihar Phase I,,,verbal abuse
+Mayur Vihar Phase I,,,murder
+Mayur Vihar Phase I,,,rape
+Mayur Vihar Phase I,,,dowry
+Mayur Vihar Phase I,,,kidnapping
+Mayur Vihar Phase I,,,rape
+Mayur Vihar Phase I,,,verbal abuse
+Mayur Vihar Phase I,,,verbal abuse
+Mayur Vihar Phase I,,,murder
+Mayur Vihar Phase I,,,murder
+Laxmi Nagar,,,kidnapping
+Laxmi Nagar,,,assault
+Laxmi Nagar,,,dowry
+Laxmi Nagar,,,murder
+Laxmi Nagar,,,verbal abuse
+Laxmi Nagar,,,murder
+Laxmi Nagar,,,assault
+Akshardham,,,assault
+Akshardham,,,kidnapping
+Akshardham,,,dowry
+Akshardham,,,dowry
+Akshardham,,,kidnapping
+Akshardham,,,murder
+Akshardham,,,assault
+Mayur Vihar,,,dowry
+Mayur Vihar,,,murder
+Mayur Vihar,,,kidnapping
+Mayur Vihar,,,murder
+Mayur Vihar,,,verbal abuse
+Mayur Vihar,,,murder
+Mayur Vihar,,,murder
+Mayur Vihar,,,verbal abuse
+Patparganj,,,assault
+Patparganj,,,verbal abuse
+Patparganj,,,verbal abuse
+Patparganj,,,verbal abuse
+Patparganj,,,rape
+Patparganj,,,assault
+Patparganj,,,assault
+Patparganj,,,verbal abuse
+Patparganj,,,dowry
+Patparganj,,,assault
+Patparganj,,,rape
+Patparganj,,,murder
+Preet Vihar,,,rape
+Preet Vihar,,,murder
+Preet Vihar,,,murder
+Preet Vihar,,,rape
+Preet Vihar,,,rape
+Preet Vihar,,,murder
+Preet Vihar,,,verbal abuse
+Preet Vihar,,,rape
+Preet Vihar,,,dowry
+Preet Vihar,,,rape
+Preet Vihar,,,murder
+Mayur Vihar Phase II,,,rape
+Mayur Vihar Phase II,,,rape
+Mayur Vihar Phase II,,,verbal abuse
+Mayur Vihar Phase II,,,dowry
+Mayur Vihar Phase II,,,kidnapping
+Mayur Vihar Phase II,,,kidnapping
+Mayur Vihar Phase II,,,rape
+Nirman Vihar,,,kidnapping
+Nirman Vihar,,,kidnapping
+Nirman Vihar,,,murder
+Nirman Vihar,,,murder
+IGI Airport,,,verbal abuse
+Pragati Maidan,,,verbal abuse
+Jama Masjid,,,rape
+RK Ashram Park,,,kidnapping
+Kashmiri Gate,,,murder
+Azadpur,,,assault
+Aruna Nagar,,,dowry
+Aruna Nagar,,,dowry
+Kamla Nagar,,,rape
+GTB Nagar,,,assault
+IIT,,,dowry
+IIT,,,kidnapping
+IIT,,,assault
+IIT,,,dowry
+IIT,,,dowry
+IIT,,,rape
+IIT,,,murder
+IIT,,,assault
+Safdarjung Enclave,,,rape
+Safdarjung Enclave,,,verbal abuse
+Safdarjung Enclave,,,rape
+Safdarjung Enclave,,,dowry
+Safdarjung Enclave,,,murder
+Shaheen Bagh,,,murder
+Shaheen Bagh,,,kidnapping
+Mehrauli,,,verbal abuse
+Mehrauli,,,assault
+Mehrauli,,,assault
+Mehrauli,,,assault
+Malviya Nagar,,,kidnapping
+Malviya Nagar,,,kidnapping
+Malviya Nagar,,,kidnapping
+Malviya Nagar,,,verbal abuse
+Malviya Nagar,,,verbal abuse
+Malviya Nagar,,,rape
+R.K. Puram,,,verbal abuse
+R.K. Puram,,,kidnapping
+R.K. Puram,,,kidnapping
+R.K. Puram,,,murder
+R.K. Puram,,,dowry
+Maharani Bagh,,,kidnapping
+Maharani Bagh,,,rape
+South Extension,,,dowry
+South Extension,,,verbal abuse
+Hauz Khas,,,verbal abuse
+Hauz Khas,,,verbal abuse
+Kailash Colony,,,murder
+Moti Nagar,,,verbal abuse
+Moti Nagar,,,rape
+Moti Nagar,,,verbal abuse
+Moti Nagar,,,rape
+West Patel Nagar,,,rape
+West Patel Nagar,,,assault
+West Patel Nagar,,,rape
+West Patel Nagar,,,assault
+West Patel Nagar,,,rape
+West Patel Nagar,,,verbal abuse
+West Patel Nagar,,,verbal abuse
+West Patel Nagar,,,rape
+West Patel Nagar,,,rape
+West Patel Nagar,,,assault
+West Patel Nagar,,,rape
+Subhash Nagar,,,kidnapping
+Subhash Nagar,,,assault
+Subhash Nagar,,,verbal abuse
+Subhash Nagar,,,verbal abuse
+Subhash Nagar,,,rape
+Subhash Nagar,,,dowry
+Subhash Nagar,,,verbal abuse
+Subhash Nagar,,,dowry
+Subhash Nagar,,,murder
+Vikaspuri,,,verbal abuse
+Vikaspuri,,,dowry
+Vikaspuri,,,rape
+Punjabi Bagh,,,murder
+Punjabi Bagh,,,verbal abuse
+Punjabi Bagh,,,rape
+Punjabi Bagh,,,rape
+Paschim Vihar,,,assault
+Paschim Vihar,,,murder
+Paschim Vihar,,,dowry
+Paschim Vihar,,,rape
+Mayapuri,,,rape
+Mayapuri,,,dowry
+Nawada,,,dowry
+Ramesh Nagar,,,dowry
+Ramesh Nagar,,,rape
+Ramesh Nagar,,,kidnapping
+Ramesh Nagar,,,assault
+Ashok Nagar,,,rape
+Ashok Nagar,,,murder
+Ashok Nagar,,,verbal abuse
+Ashok Nagar,,,rape
+Hari nagar,,,assault
+Hari nagar,,,verbal abuse
+Hari nagar,,,verbal abuse
+Rajouri Garden,,,assault
+Rajouri Garden,,,kidnapping
+Rajouri Garden,,,assault
+Shivaji Place,,,assault
+Shivaji Place,,,murder
