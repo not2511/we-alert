@@ -37,3 +37,6 @@ yarn-error.*
 
 app-example
 \my-app\node_modules
+# logs
+logs/
+*.log
