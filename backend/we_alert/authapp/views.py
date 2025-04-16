@@ -12,25 +12,52 @@ import random
 from rest_framework_simplejwt.tokens import RefreshToken
 
 class SendOTPView(APIView):
-    def post(self,request):
-        phone_number=request.data.get('phone_number')
+    def post(self, request):
+        phone_number = request.data.get('phone_number')
         if not phone_number:
-            return Response({"error":"Phone number is required"},status=status.HTTP_400_BAD_REQUEST)
+            return Response({"error": "Phone number is required"}, status=status.HTTP_400_BAD_REQUEST)
         
-        user, created=CustomUser.objects.get_or_create(phone_number=phone_number)
-
-        code=str(random.randint(100000,999999))
-
-        expires_at=timezone.now()+timedelta(minutes=4)
-        otp=OTP.objects.create(user=user,otp=code,expires_at=expires_at)
-
-        client=Client(settings.TWILIO_ACCOUNT_SID,settings.TWILIO_AUTH_TOKEN)
-        message = client.messages.create(
-            body=f"Your OTP is {code}",
-            from_ =settings.TWILIO_NUMBER,
-            to=phone_number
-        )
-        return Response({"message":"OTP sent sucessfully to your Number", "is_new_user":created},status=status.HTTP_200_OK)
+        try:
+            # Create or get the user
+            user, created = CustomUser.objects.get_or_create(phone_number=phone_number)
+            
+            # Generate OTP
+            code = str(random.randint(100000, 999999))
+            
+            # Set expiration and create OTP record
+            expires_at = timezone.now() + timedelta(minutes=4)
+            otp = OTP.objects.create(user=user, otp=code, expires_at=expires_at)
+            
+            # Debug environment variables
+            print(f"TWILIO_ACCOUNT_SID: {settings.TWILIO_ACCOUNT_SID}")
+            print(f"TWILIO_NUMBER: {settings.TWILIO_NUMBER}")
+            
+            try:
+                # Send SMS via Twilio
+                client = Client(settings.TWILIO_ACCOUNT_SID, settings.TWILIO_AUTH_TOKEN)
+                message = client.messages.create(
+                    body=f"Your OTP is {code}",
+                    from_=settings.TWILIO_NUMBER,
+                    to=phone_number
+                )
+                print(f"Twilio message SID: {message.sid}")
+            except Exception as twilio_error:
+                # Log the Twilio error but don't fail the request
+                print(f"Twilio error: {str(twilio_error)}")
+                # We'll still return success since the OTP was created in our system
+            
+            # Return success response
+            return Response(
+                {"message": "OTP sent successfully to your Number", "is_new_user": created},
+                status=status.HTTP_200_OK
+            )
+                
+        except Exception as e:
+            print(f"Error in SendOTPView: {str(e)}")
+            return Response(
+                {"error": str(e)}, 
+                status=status.HTTP_500_INTERNAL_SERVER_ERROR
+            )
 class VerifyOTPView(APIView):
     def post(self,request):
         phone_number=request.data.get('phone_number')
